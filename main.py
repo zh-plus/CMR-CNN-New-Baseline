@@ -1,5 +1,8 @@
+from dataset.Mirflickr25kDataset import Mirflickr25kDataset
+
+
 def main():
-    print(f'Hi')
+    dataset = Mirflickr25kDataset()
 
 
 if __name__ == '__main__':
