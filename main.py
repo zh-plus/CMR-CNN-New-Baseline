@@ -1,4 +1,4 @@
-from dataset.Mirflickr25kDataset import Mirflickr25kDataset
+from datasets.Mirflickr25kDataset import Mirflickr25kDataset
 
 
 def main():
